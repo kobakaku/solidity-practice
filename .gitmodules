@@ -4,3 +4,6 @@
 [submodule "foundry-erc20/lib/openzeppelin-contracts"]
 	path = foundry-erc20/lib/openzeppelin-contracts
 	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "foundry-erc20/lib/foundry-devops"]
+	path = foundry-erc20/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
